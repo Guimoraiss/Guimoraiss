@@ -46,10 +46,10 @@ I also enjoy sharing what I learn about software development, technology, and th
 
 <div align="center">
   <a href="https://github.com/Guimoraiss">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=080808&title_color=991B1B&text_color=F3EEE5&border_color=7F1D1D" alt="Most used languages" />
   </a>
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Guimoraiss&theme=shadow_red&hide_border=false" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Guimoraiss&theme=shadow_red&hide_border=false&background=080808&border=7F1D1D&stroke=7F1D1D&ring=991B1B&fire=991B1B&currStreakNum=F3EEE5&sideNums=F3EEE5&currStreakLabel=F3EEE5&sideLabels=F3EEE5&dates=A1A1AA" alt="GitHub contribution streak" />
 </div>
 
 ## 📁 My work
@@ -59,7 +59,7 @@ I am always building, testing, and learning. Take a look at my repositories to f
 ## 📡 Let's connect
 
 <p>
-  <a href="https://github.com/Guimoraiss"><img src="https://img.shields.io/badge/GitHub-Guimoraiss-080808?style=for-the-badge&logo=github&logoColor=F3EEE5" alt="GitHub" /></a>
+  <a href="https://github.com/Guimoraiss"><img src="https://img.shields.io/badge/GitHub-Guimoraiss-7F1D1D?style=for-the-badge&logo=github&logoColor=F3EEE5" alt="GitHub" /></a>
   <a href="https://www.instagram.com/s1goli/"><img src="https://img.shields.io/badge/Instagram-@s1goli-7F1D1D?style=for-the-badge&logo=instagram&logoColor=F3EEE5" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@moraizzz"><img src="https://img.shields.io/badge/YouTube-@moraizzz-991B1B?style=for-the-badge&logo=youtube&logoColor=F3EEE5" alt="YouTube" /></a>
 </p>
