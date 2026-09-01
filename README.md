@@ -1,7 +1,7 @@
 <div align="center">
   <code>GUIMORAISS / DEVELOPER PROFILE</code>
 
-  <h1>Hi 👋, I'm Herbert Souza</h1>
+  <h1>Hi 👋, I'm Guilherme Morais</h1>
   <p><strong>Senior Software Engineer</strong> · JavaScript &amp; .NET · Brazil 🇧🇷</p>
 </div>
 
