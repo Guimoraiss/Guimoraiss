@@ -1,8 +1,8 @@
 <div align="center">
   <code>GUIMORAISS / DEVELOPER PROFILE</code>
 
-  <h1>Hi 👋, I'm Guilherme Morais</h1>
-  <p><strong>Senior Software Engineer</strong> · JavaScript &amp; .NET · Brazil 🇧🇷</p>
+  <h1>Hi, I'm Guilherme Morais</h1>
+  <p><strong>Senior Software Engineer</strong> · JavaScript &amp; .NET · Brazil</p>
 </div>
 
 ---
@@ -17,11 +17,11 @@ I also enjoy sharing what I learn about software development, technology, and th
 
 ## ⚙️ What I do
 
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 🤖 Automation & integrations
-- 📊 Dashboards & analytics
-- 🎓 Teaching & mentoring developers
+- Performance optimization
+- Clean architecture & system design
+- Automation & integrations
+- Dashboards & analytics
+- Teaching & mentoring developers
 
 ## 🛠️ Tools I work with
 
