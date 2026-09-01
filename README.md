@@ -8,9 +8,15 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
+<p>
+  <img src="https://img.shields.io/badge/BUILT_IN-080808?style=flat-square&labelColor=080808&color=080808" alt="Built in black" />
+  <img src="https://img.shields.io/badge/CODED_WITH-F3EEE5?style=flat-square&labelColor=F3EEE5&color=F3EEE5&logoColor=080808" alt="Coded with bone" />
+  <img src="https://img.shields.io/badge/ACCENT-7F1D1D?style=flat-square&labelColor=7F1D1D&color=7F1D1D" alt="Crimson accent" />
+</p>
+
 ---
 
-## 🌐 Where to find me
+## 🥀 Where to find me
 
 <p align="left">
   <a href="https://github.com/Guimoraiss">
@@ -26,7 +32,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🧠 What I do
+## 🕯️ What I do
 
 -   ⚡ Performance optimization
 -   🧩 Clean architecture & system design
@@ -36,7 +42,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Frontend
 
@@ -64,7 +70,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🚀 Philosophy
+## 🥀 Philosophy
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
