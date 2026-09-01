@@ -57,6 +57,12 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
+---
+
+## 🖤 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🚀 Philosophy
 
