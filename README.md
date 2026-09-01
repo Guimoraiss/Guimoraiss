@@ -46,10 +46,10 @@ I also enjoy sharing what I learn about software development, technology, and th
 
 <div align="center">
   <a href="https://github.com/Guimoraiss">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
   </a>
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Guimoraiss&theme=midnight-purple&hide_border=false" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Guimoraiss&theme=shadow_red&hide_border=false" alt="GitHub contribution streak" />
 </div>
 
 ## 📁 My work
