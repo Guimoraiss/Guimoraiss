@@ -5,16 +5,13 @@
   <p><strong>Senior Software Engineer</strong> · JavaScript &amp; .NET · Brazil 🇧🇷</p>
   <p><i>Building systems that outlive the noise.</i></p>
 
-  <img src="https://img.shields.io/badge/BUILT_IN-080808?style=flat-square&labelColor=080808&color=080808" alt="Built in black" />
-  <img src="https://img.shields.io/badge/CODED_WITH-F3EEE5?style=flat-square&labelColor=F3EEE5&color=F3EEE5&logoColor=080808" alt="Coded with bone" />
-  <img src="https://img.shields.io/badge/ACCENT-7F1D1D?style=flat-square&labelColor=7F1D1D&color=7F1D1D" alt="Crimson accent" />
 </div>
 
 ---
 
 ## 🕯️ I. The Introduction
 
-I create **practical software solutions** for real problems — helping people and businesses turn challenges into reliable, high-performance digital systems. My approach balances architecture, performance, clean code, and business-driven decisions.
+I create **practical software solutions** for real client problems — from high-performance websites and API integrations to administrative dashboards and reliable digital systems. I help people and businesses turn challenges into clear, effective technology through architecture, performance, clean code, and business-driven decisions.
 
 > _Build with intention. Scale with discipline. Leave nothing ordinary behind._
 
@@ -60,8 +57,6 @@ I create and share knowledge about software development and tech entrepreneurshi
 ## 📁 VI. Selected Work
 
 The archive is always growing. Explore my repositories for products, experiments, and systems in progress.
-
-<a href="https://github.com/Guimoraiss?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_ARCHIVE-7F1D1D?style=for-the-badge&logo=github&logoColor=F3EEE5" alt="Explore GitHub repositories" /></a>
 
 ## 📡 VII. The Signal
 
