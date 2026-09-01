@@ -27,22 +27,22 @@ I also enjoy sharing what I learn about software development, technology, and th
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-080808?style=for-the-badge&logo=javascript&logoColor=F3EEE5)
+![TypeScript](https://img.shields.io/badge/TypeScript-7F1D1D?style=for-the-badge&logo=typescript&logoColor=F3EEE5)
+![React](https://img.shields.io/badge/React-080808?style=for-the-badge&logo=react&logoColor=F3EEE5)
+![Next.js](https://img.shields.io/badge/Next.js-7F1D1D?style=for-the-badge&logo=nextdotjs&logoColor=F3EEE5)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-080808?style=for-the-badge&logo=tailwindcss&logoColor=F3EEE5)
 
 ### Backend & tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Node.js](https://img.shields.io/badge/Node.js-7F1D1D?style=for-the-badge&logo=nodedotjs&logoColor=F3EEE5)
+![Python](https://img.shields.io/badge/Python-080808?style=for-the-badge&logo=python&logoColor=F3EEE5)
+![MySQL](https://img.shields.io/badge/MySQL-7F1D1D?style=for-the-badge&logo=mysql&logoColor=F3EEE5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080808?style=for-the-badge&logo=postgresql&logoColor=F3EEE5)
+![Git](https://img.shields.io/badge/Git-7F1D1D?style=for-the-badge&logo=git&logoColor=F3EEE5)
+![Figma](https://img.shields.io/badge/Figma-080808?style=for-the-badge&logo=figma&logoColor=F3EEE5)
 
-## 🖤 Evidence of Work
+## 🖤 A little of my journey
 
 <div align="center">
   <a href="https://github.com/Guimoraiss">
@@ -59,9 +59,9 @@ I am always building, testing, and learning. Take a look at my repositories to f
 ## 📡 Let's connect
 
 <p>
-  <a href="https://github.com/Guimoraiss"><img src="https://img.shields.io/badge/GitHub-Guimoraiss-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/s1goli/"><img src="https://img.shields.io/badge/Instagram-@s1goli-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@moraizzz"><img src="https://img.shields.io/badge/YouTube-@moraizzz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/Guimoraiss"><img src="https://img.shields.io/badge/GitHub-Guimoraiss-080808?style=for-the-badge&logo=github&logoColor=F3EEE5" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/s1goli/"><img src="https://img.shields.io/badge/Instagram-@s1goli-7F1D1D?style=for-the-badge&logo=instagram&logoColor=F3EEE5" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@moraizzz"><img src="https://img.shields.io/badge/YouTube-@moraizzz-991B1B?style=for-the-badge&logo=youtube&logoColor=F3EEE5" alt="YouTube" /></a>
 </p>
 
 ---
