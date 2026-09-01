@@ -3,23 +3,19 @@
 
   <h1>Hi 👋, I'm Herbert Souza</h1>
   <p><strong>Senior Software Engineer</strong> · JavaScript &amp; .NET · Brazil 🇧🇷</p>
-  <p><i>Building systems that outlive the noise.</i></p>
-
 </div>
 
 ---
 
-## 🕯️ The Introduction
+## 🕯️ A little about me
 
-I create **practical software solutions** for real client problems — from high-performance websites and API integrations to administrative dashboards and reliable digital systems. I help people and businesses turn challenges into clear, effective technology through architecture, performance, clean code, and business-driven decisions.
+I help people and businesses solve real problems through technology. From websites and API integrations to administrative dashboards, I build practical digital solutions that are easy to use and reliable.
 
-> _Build with intention. Scale with discipline. Leave nothing ordinary behind._
+## 🥀 What I share
 
-## 🥀 Current Transmission
+I also enjoy sharing what I learn about software development, technology, and the process of building better solutions.
 
-I create and share knowledge about software development and tech entrepreneurship — always looking for better ways to turn complex problems into clear, reliable solutions.
-
-## ⚙️ The Craft
+## ⚙️ What I do
 
 - ⚡ Performance optimization
 - 🧩 Clean architecture & system design
@@ -27,7 +23,7 @@ I create and share knowledge about software development and tech entrepreneurshi
 - 📊 Dashboards & analytics
 - 🎓 Teaching & mentoring developers
 
-## 🛠️ The Arsenal
+## 🛠️ Tools I work with
 
 ### Frontend
 
@@ -47,19 +43,21 @@ I create and share knowledge about software development and tech entrepreneurshi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
-## 🖤 Evidence of Work
+## 🖤 A little of my journey
 
 <div align="center">
   <a href="https://github.com/Guimoraiss">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Guimoraiss&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
   </a>
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Guimoraiss&theme=midnight-purple&hide_border=false" alt="GitHub contribution streak" />
 </div>
 
-## 📁 Selected Work
+## 📁 My work
 
-The archive is always growing. Explore my repositories for products, experiments, and systems in progress.
+I am always building, testing, and learning. Take a look at my repositories to find projects, experiments, and work in progress.
 
-## 📡 The Signal
+## 📡 Let's connect
 
 <p>
   <a href="https://github.com/Guimoraiss"><img src="https://img.shields.io/badge/GitHub-Guimoraiss-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -69,4 +67,4 @@ The archive is always growing. Explore my repositories for products, experiments
 
 ---
 
-<div align="center"><sub><i>© The work continues.</i></sub></div>
+<div align="center"><sub><i>Thanks for stopping by.</i></sub></div>
