@@ -42,7 +42,7 @@ I also enjoy sharing what I learn about software development, technology, and th
 ![Git](https://img.shields.io/badge/Git-7F1D1D?style=for-the-badge&logo=git&logoColor=F3EEE5)
 ![Figma](https://img.shields.io/badge/Figma-080808?style=for-the-badge&logo=figma&logoColor=F3EEE5)
 
-## 🖤 A little of my journey
+## 🖤 Evidence of Work
 
 <div align="center">
   <a href="https://github.com/Guimoraiss">
